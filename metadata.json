@@ -1,0 +1,8 @@
+{
+  "name": "Empowerment Career Hub",
+  "description": "A platform empowering women and rising talent through mentorship, impact projects, and immersive 3D/AR growth environments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
