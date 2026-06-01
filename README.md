@@ -1,20 +1,43 @@
 <div align="center">
-</div>
+
 # Empowerment Career Hub
 
-Live Demo: https://empowerment-career-hub-bok1.vercel.app/
+Career development platform designed to support users in exploring opportunities, building professional skills, and navigating their career journey.
 
-# Run and deploy your AI Studio app
+**Live Demo:** https://empowerment-career-hub-bok1.vercel.app/
 
-This contains everything you need to run your app locally.
+</div>
+
+
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
 
+* Node.js
+
+### Installation
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+```bash
+npm install
+```
+
+2. Set the `GEMINI_API_KEY` in `.env.local`:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+```
+
+3. Run the application:
+
+```bash
+npm run dev
+```
+
+4. Open your browser and visit:
+
+```text
+http://localhost:3000
+```
